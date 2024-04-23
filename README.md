@@ -16,6 +16,6 @@ this an assigenment  about simple filters in an image
  * darkenAndLighten
    >make the image darker or lighter by 50%
  - Enlarge Image
-  > this filter enlarge one of the four quarters of the image into a separate new image
+   > this filter enlarge one of the four quarters of the image into a separate new image
  + Shrink Image
-  >shrink the image dimensions to 1/2, 1/3 or 1/4 of the original dimensions
+   >shrink the image dimensions to 1/2, 1/3 or 1/4 of the original dimensions
