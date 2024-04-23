@@ -1,5 +1,5 @@
-# CS213-OOP-assigenment-1
-this an assigenment  about simple filters in an image
+# CS213-OOP-assignment-1
+This is an assignmentt about simple filters on images
 
 
 # some filters here in project 
@@ -7,13 +7,13 @@ this an assigenment  about simple filters in an image
    > this filter produce another version of the image that is black and white.
  + Invert Image
    >produce the negative of the image, and you can store it in the file name you give.
- * mergeImages
+ * MergeImages
    >take another image and then merge it with the first image 
- - flipImage
+ - FlipImage
    >flip the image horizontally or vertically  
- + rotateImage
+ + RotateImage
    >rotate image 90 or 180 or 270      
- * darkenAndLighten
+ * DarkenAndLighten
    >make the image darker or lighter by 50%
  - Enlarge Image
    > this filter enlarge one of the four quarters of the image into a separate new image
