@@ -1,8 +1,7 @@
 //FCAI – OOP Programming – 2023 - Assignment 1
 //Program Name: CS213-2023-20220433-20200660-20220457-A1-Part1.cpp
 //Author1 and ID and Email:	"Moaz Mohamed Esmail AbdElhalim" 20220433 moazmohamed.ba@gmail.com
-//Author2 and ID and Email:	"Youssef Mohsen Muhammad Abdullah" 20200660 alshbyoussef@gmail.com
-//Author3 and ID and Email: "Mahmoud Ehab Helmy" 20220457 Mahmoudehab3214@gmail.com
+//Author2 and ID and Email: "Mahmoud Ehab Helmy" 20220457 Mahmoudehab3214@gmail.com
 
 #include <iostream>
 #include <fstream>
